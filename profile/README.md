@@ -10,7 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![Screen Shot 2022-05-09 at 14 00 36](https://user-images.githubusercontent.com/100106930/167357014-d5940bfd-abd3-49ea-a9ed-f12762692fd8.png)
+<img src="https://user-images.githubusercontent.com/100106930/167357014-d5940bfd-abd3-49ea-a9ed-f12762692fd8.png" width="100%">
+</img>
+
 
 ### What is Snowflake Network? 
 
