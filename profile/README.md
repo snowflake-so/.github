@@ -12,11 +12,12 @@
 -->
 
 
-### What is Snowflake Network? 
+### About Snowflake 
 
 Snowflake is comprised of two major products.
 
 Snowflake Safe - the most feaure-rich and secure multi-signature wallet on Solana.
+
 Snowflake Automation - the first web3 on-chain automation platform on Solana.
 
 ### How can you contribute to Snowflake?
