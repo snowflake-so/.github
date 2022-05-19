@@ -10,20 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<img src="https://user-images.githubusercontent.com/100106930/167357014-d5940bfd-abd3-49ea-a9ed-f12762692fd8.png" width="100%">
-</img>
 
 
 ### What is Snowflake Network? 
 
-Snowflake team sets out to make web3 on-chain automation possible on Solana. Our team is committed to building the most frictionless, reliable and delightful to use, yet decentralised and trustless, automation platform that builders and end users can depend on for their most critical tasks.
+Snowflake is comprised of two major products.
 
-### Who is Snowflake built for?
-#### The Builders
-Today, most web3 protocols often require off-chain automations that are executed outside of their smart contracts. Developers often spend a significant amount of time building this off-chain infrastructure themselves. Not only is this time consuming and inefficient, it introduces a number of risks since this infrastructure is often managed solely by the project teams.
-
-#### The End Users
-As much as Snowflake benefits developers, we are equally excited to bring the power of automation to every end-user of web3. To web3 users, Snowflake is the Zapier of Solana. Using Snowflake, web3 users will be able to compose all kinds of automation like recurring payments, limit orders, dollar cost average investments, impermanent loss protection, liquidation protection, and more…
+Snowflake Safe - the most feaure-rich and secure multi-signature wallet on Solana.
+Snowflake Automation - the first web3 on-chain automation platform on Solana.
 
 ### How can you contribute to Snowflake?
 #### Public repositories
