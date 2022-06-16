@@ -24,7 +24,7 @@ Snowflake Automation - the first web3 on-chain automation platform on Solana.
 #### Public repositories
 - Snowflake Safe SDK: https://github.com/snowflake-so/snowflake-safe-sdk
 - Snowflake Automation SDK: https://github.com/snowflake-so/snowflake-sdk
-- Snowflake Automation CLI: https://github.com/snowflake-so/snowflake-cli
+- Snowflake CLI: https://github.com/snowflake-so/snowflake-cli
 #### Contribute Guide
 To be a part of Snowflake Network, you can fork our public repositories and contribute to those repositories by making a pull request. 
 
